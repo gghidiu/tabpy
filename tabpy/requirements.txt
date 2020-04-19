@@ -1,3 +1,7 @@
+# Add (remove) here all the Python lybraries that you require for your project
+# To add a certain version of a library type the library name and the version e.g. example=1.2
+# For mor information on how to structure your requirements.txt file see the link below
+# https://pip.pypa.io/en/stable/user_guide/#requirements-files
 tabpy
 pandas
 numpy
